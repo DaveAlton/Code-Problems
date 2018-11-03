@@ -1,0 +1,8 @@
+
+*.xcuserstate
+
+Sudoku\.playground/playground\.xcworkspace/xcshareddata/IDEWorkspaceChecks\.plist
+
+*.xcworkspacedata
+
+Sudoku\.playground/playground\.xcworkspace/xcshareddata/
